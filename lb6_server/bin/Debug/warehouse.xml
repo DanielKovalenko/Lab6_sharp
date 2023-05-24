@@ -1,0 +1,32 @@
+<Products>
+  <Product>
+    <Name>Apple</Name>
+    <Quantity>30</Quantity>
+    <PurchasePrice>12,54</PurchasePrice>
+    <SellingPrice>15,00</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Tomato</Name>
+    <Quantity>5</Quantity>
+    <PurchasePrice>11,39</PurchasePrice>
+    <SellingPrice>12</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Orange</Name>
+    <Quantity>50</Quantity>
+    <PurchasePrice>11,12</PurchasePrice>
+    <SellingPrice>15,05</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Cheese</Name>
+    <Quantity>10</Quantity>
+    <PurchasePrice>50,10</PurchasePrice>
+    <SellingPrice>60,50</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Banana</Name>
+    <Quantity>5</Quantity>
+    <PurchasePrice>8,00</PurchasePrice>
+    <SellingPrice>15,15</SellingPrice>
+  </Product>
+</Products>

@@ -1,0 +1,32 @@
+<Products>
+  <Product>
+    <Name>Don Pomidor</Name>
+    <Quantity>10</Quantity>
+    <PurchasePrice>200</PurchasePrice>
+    <SellingPrice>150</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Senior Camardjoba</Name>
+    <Quantity>5</Quantity>
+    <PurchasePrice>50</PurchasePrice>
+    <SellingPrice>80</SellingPrice>
+  </Product>
+  <Product>
+    <Name>CAMCAM</Name>
+    <Quantity>213</Quantity>
+    <PurchasePrice>1,12</PurchasePrice>
+    <SellingPrice>1,2</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Товар 1</Name>
+    <Quantity>10</Quantity>
+    <PurchasePrice>5</PurchasePrice>
+    <SellingPrice>10</SellingPrice>
+  </Product>
+  <Product>
+    <Name>Товар 2</Name>
+    <Quantity>5</Quantity>
+    <PurchasePrice>8</PurchasePrice>
+    <SellingPrice>15</SellingPrice>
+  </Product>
+</Products>
